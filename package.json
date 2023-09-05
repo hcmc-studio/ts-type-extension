@@ -1,5 +1,5 @@
 {
-  "name": "ts-protocol-extension",
+  "name": "ts-type-extension",
   "version": "0.0.48",
   "type": "module",
   "main": "dist/index.js",
